@@ -4,8 +4,8 @@
 
 **Token**: `$JUBL` — ERC-20 on Base  
 **Supply**: 1,000,000,000 (1B) fixed  
-**Contract**: [`0xEB70EFca1B973A06699B019677af0ed20B1Dd9F1`](https://sepolia.basescan.org/address/0xEB70EFca1B973A06699B019677af0ed20B1Dd9F1)  
-**Status**: 🟢 **LIVE on Base Sepolia**
+**Contract**: [`0x89122fBaEE012AD26D521c11AB5DF9595582E28c`](https://basescan.org/address/0x89122fBaEE012AD26D521c11AB5DF9595582E28c)  
+**Status**: 🟢 **LIVE on Base Mainnet** — Deployed Feb 25, 2026
 
 ---
 
