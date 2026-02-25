@@ -103,10 +103,9 @@ Protocol Revenue
 
 ## Security
 
-- **Internal audit**: 8 findings fixed (2 High, 3 Medium, 3 Low)
-- **Red team audit**: 6 exploits found and fixed (2 Critical, 2 High, 2 Medium)
+- **Internal audit**: 8 findings fixed (2 High, 3 Medium, 3 Low) — [Full Report](docs/JUBL_AUDIT_REPORT.md)
+- **Red team audit**: 6 exploits found and fixed (2 Critical, 2 High, 2 Medium) — [Full Report](docs/JUBL_REDTEAM_REPORT.md)
 - **External audit**: Scheduled with Sherlock
-- See [AUDIT_REPORT.md](docs/AUDIT_REPORT.md) for details
 
 ## Development
 
